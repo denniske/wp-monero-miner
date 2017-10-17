@@ -5,6 +5,12 @@ This is the official repository of the WP Monero Miner using Coin Hive wordpress
 You can ask questions here:
 https://github.com/denniske/wp-monero-miner/issues
 
+Official website:
+http://www.wp-monero-miner.com/
+
+Official Wordpress Plugin:
+https://wordpress.org/plugins/wp-monero-miner-using-coin-hive/
+
 
 ## Description
 
